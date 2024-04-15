@@ -1,0 +1,21 @@
+.container {
+  padding: 10px;
+  margin: 20px auto;
+  color: #ffffff;
+  background-color: #1C2B36;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 0;
+  background: #1C2B36;
+  margin-bottom: 10px;
+}

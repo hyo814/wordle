@@ -1,0 +1,29 @@
+.title {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    border: 2px solid #ddd;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    font-size: 2rem;
+    color: white;
+    transition: transform 0.2s ease-in-out, background-color 0.5s ease;
+}
+.correct {
+    background-color: green;
+    transform: scale(1.1);
+}
+.present {
+    background-color: yellow;
+    transform: scale(1.1);
+}
+.absent {
+    background-color: grey;
+    transform: scale(1.1);
+}
+.none {
+    background-color: #ffffff;
+    color:#000000;
+}

@@ -1,0 +1,8 @@
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+  width: 500px;
+  background-color: #1C2B36;
+}

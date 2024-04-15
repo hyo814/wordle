@@ -1,0 +1,10 @@
+.key {
+    width: 40px;
+    height: 60px;
+    margin: 5px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
