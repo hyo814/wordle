@@ -36,7 +36,7 @@
 
 
 ### ✔ 프로그램 실행 방법
-- github : https://github.com/buzzvil-assignments/ggamjige8888-naver.com
+- github : https://github.com/hyo814/wordle
 
    - 1. GitHub에서 원하는 저장소로 이동합니다.
    - 2. 저장소 페이지의 우측 상단에서 "Code" 버튼을 클릭합니다.

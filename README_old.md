@@ -5,10 +5,6 @@ UI/UX는 [해당 URL](https://www.nytimes.com/games/wordle/index.html)의 워들
 # **게임방법**
 워들은 6번의 시도로 주워진 5글자의 영어단어를 추측하는 게임입니다.
 
-만약 주워진 영어단어가 **WORLD**이고 단어 WEARY라는 단어를 입력했다고 하면 아래처럼 표시됩니다. [
-![FE Assignment Image](https://github.com/buzzvil-assignments/FE-Assignment-Template-modify-/assets/90582400/56c8268e-48b0-40f3-9390-81f00e4461a1)](https://github.com/buzzvil-assignments/ggamjige8888-naver.com/issues/1#issue-2214480525)
-각색이 의미하는 것은
-
 만약 타일이 **초록색**으로 표시된다면:
 - 표시된 글자가 워들에 존재한다.
 - 표시된 글자가 정확히 같은 위치에 위치한다.
